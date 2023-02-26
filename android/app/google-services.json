@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75147218322",
+    "project_id": "learn-speed-af591",
+    "storage_bucket": "learn-speed-af591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75147218322:android:5d4a3b934e1a6c06c9854b",
+        "android_client_info": {
+          "package_name": "com.example.learn_speed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75147218322-9mh3pvb9h8ruapa7sdqc773trut2736p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFB24_OQ7qMAV-R3bUajGtC8-4iEZ9sR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75147218322-9mh3pvb9h8ruapa7sdqc773trut2736p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
